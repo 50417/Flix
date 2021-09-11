@@ -2,11 +2,10 @@
 //  AppDelegate.swift
 //  Flix
 //
-//  Created by Pratistha Shrestha on 9/10/21.
+//  Created by Sohil Shrestha on 9/10/21.
 //
 
 import UIKit
-
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
